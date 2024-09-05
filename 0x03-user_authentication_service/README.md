@@ -1,5 +1,7 @@
 # User Authentication Service
 
+ESSAM
+
 This project contains tasks for learning to create a user authentication service.
 
 ## Requirements
